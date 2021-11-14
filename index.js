@@ -10,3 +10,5 @@ console.log('git rebase conflict test 1');
 console.log('git rebase conflict test 2');
 console.log('git rebase conflict test A');
 console.log('git rebase conflict test B');
+console.log('git rebase conflict test A');
+console.log('git rebase conflict test B');
